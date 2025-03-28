@@ -113,10 +113,6 @@ python main.py
 4. ブランチをプッシュ (`git push origin feature/your-feature`)
 5. プルリクエストを作成
 
-## 📜 ライセンス
-
-[MIT License](LICENSE)
-
 ## 🔮 将来の機能追加予定
 
 - グラフィカルユーザーインターフェース（GUI）
