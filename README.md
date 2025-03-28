@@ -23,7 +23,7 @@
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/yourusername/league-tournament-calculator.git
+git clone https://github.com/yourusername/SyoritsuChecker.git
 
 # プロジェクトディレクトリに移動
 cd league-tournament-calculator
