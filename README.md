@@ -26,7 +26,7 @@
 git clone https://github.com/yourusername/SyoritsuChecker.git
 
 # プロジェクトディレクトリに移動
-cd league-tournament-calculator
+cd SyoritsuChecker
 ```
 
 ## 💻 使用方法
